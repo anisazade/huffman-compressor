@@ -1,5 +1,4 @@
 import os
-import platform
 import pickle
 import struct
 from collections import Counter
